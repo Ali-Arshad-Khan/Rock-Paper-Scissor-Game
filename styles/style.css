@@ -36,7 +36,8 @@ img{
     
 
 }
-.reset-score-button{
+.reset-score-button,
+.auto-play-button{
     background-color: rgb(250,192,54);
     
     border-radius: 25px;
